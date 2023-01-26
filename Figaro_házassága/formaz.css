@@ -1,0 +1,58 @@
+body
+{
+    background-color: #FFCCAA;
+    font-family: Tahoma;
+    font-size: 14pt;
+}
+
+a
+{
+    color: #A04000;
+}
+
+#elsokep
+{
+    float: left;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 150px;
+}
+
+#masodikkep
+{
+    float: right;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 195px;
+}
+
+h1
+{
+    color: #A04000;
+}
+
+.elso
+{
+    text-align: justify;
+    font-weight: bold;
+}
+
+.masodik
+{
+    text-align: justify;
+}
+
+table
+{
+    width: 100%;
+}
+
+#right
+{
+    text-align: right;
+    padding-top: 255px;
+}
